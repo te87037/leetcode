@@ -1,3 +1,7 @@
+"""
+author Rex.lin
+easy level
+"""
 class Solution:
     def twoSum(self, nums, target):
         """
